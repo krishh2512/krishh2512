@@ -1,0 +1,14 @@
+name: build
+
+on: [push, workflow_dispatch]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      -
+        name: Check GitHub Status
+        uses: crazy-max/ghaction-github-status@v2
+      -
+        name: Checkout
+        uses: actions/checkout@v2
