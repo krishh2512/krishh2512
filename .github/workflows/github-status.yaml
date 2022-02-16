@@ -1,4 +1,4 @@
-name: build
+name: Github status action
 
 on:
   workflow_dispatch:
