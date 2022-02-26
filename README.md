@@ -7,7 +7,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-krishnapemmasani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishnapemmasani/)](https://www.linkedin.com/in/krishnapemmasani/) [![Gmail Badge](https://img.shields.io/badge/-krishh9001@@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krishh9001@gmail.com)](mailto:krishh9001@gmail.com) <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishh2512" alt="krishh2512" /> </p>
-[![Actions Status](https://github.com/krishh2512/krishh2512/workflows/Build%20and%20Test/badge.svg)](https://github.com/krishh2512/krishh2512/Github status action)
+
 
 
  ## About me
