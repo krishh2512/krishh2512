@@ -23,7 +23,7 @@ I am a passionate and innovative DevOps Engineer with experience in Supporting I
 * GitHub Actions
 
 
-- 🔭 I’m currently working for eBay. 
+- 🔭 I’m currently working for eBay Classifieds Group(eCG). 
 
 - ⚡ I'm stationed in Berlin.
 
