@@ -29,5 +29,8 @@ I am a passionate and innovative DevOps Engineer with experience in Supporting I
 
 - 🌱 I’m currently doing CKA training. 
 
+## My GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=krishh2512&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishh2512&theme=dark" width="45%" />
 
-![krishna's github stats](https://github-readme-stats.vercel.app/api?username=krishh2512&show_icons=true&theme=radical)
+
