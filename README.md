@@ -32,5 +32,12 @@ I am a passionate and innovative DevOps Engineer with experience in Supporting I
 ## My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=krishh2512&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishh2512&theme=dark" width="45%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishh2512&layout=compact&theme=dracula" width="50%"/><br><br>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishh2512&theme=dracula" />
+</p>
+![Krishna's github activity graph](https://activity-graph.herokuapp.com/graph?username=krishh2512&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+
+![Krishna's github activity graph](https://github.com/krishh2512/krishh2512/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
+
 
 
