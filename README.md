@@ -29,6 +29,16 @@ I am a passionate and innovative DevOps Engineer with experience in Supporting I
 
 - 🌱 I’m currently doing CKA training. 
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=VishnuVVR-369&column=8&margin-w=15&margin-h=15&theme=onedark"/>
+  </a>
+</p>
+
+<br>
+
 ## My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=krishh2512&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishh2512&theme=dark" width="45%" />
