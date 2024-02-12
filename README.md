@@ -34,15 +34,6 @@ Outside of work, I enjoy keeping up with the latest trends in DevOps and cloud t
 
 Feel free to reach out if you have any questions or would like to discuss potential collaborations!
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=VishnuVVR-369&column=8&margin-w=15&margin-h=15&theme=onedark"/>
-  </a>
-</p>
-
-<br>
 
 ## My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=krishh2512&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
