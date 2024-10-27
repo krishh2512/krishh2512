@@ -27,8 +27,6 @@ I am a passionate and innovative DevOps Engineer with experience in Supporting I
 
 - ⚡ I'm stationed in Berlin.
 
-- 🌱 I’m currently doing CKA training. 
-
 Interests
 Outside of work, I enjoy keeping up with the latest trends in DevOps and cloud technologies. I am constantly learning and experimenting with new tools and techniques to enhance my skills. Additionally, I love participating in tech communities and sharing knowledge through blog posts and technical talks.
 
